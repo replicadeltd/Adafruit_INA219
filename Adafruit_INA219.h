@@ -160,7 +160,7 @@ typedef enum {
     INA219_CONFIG_MODE_SVOLT_CONTINUOUS  =  (0x0005),
     INA219_CONFIG_MODE_BVOLT_CONTINUOUS   =  (0x0006),
     INA219_CONFIG_MODE_SANDBVOLT_CONTINUOUS = (0x0007),
-} Adafruit_INA219_Operating_Mode;
+} Adafruit_INA219_OperatingMode;
 /*=========================================================================*/
 
 /**************************************************************************/
